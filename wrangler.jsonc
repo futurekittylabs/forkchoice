@@ -11,5 +11,7 @@
 	"observability": {
 		"enabled": true
 	},
-	"send_metrics": false
+	"send_metrics": false,
+	"workers_dev": true,
+	"preview_urls": true
 }
